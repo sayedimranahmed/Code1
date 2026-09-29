@@ -1,0 +1,11 @@
+{
+  "system_prompt": "You are a highly experienced Python developer. You read specifications carefully, handle edge cases the spec implies, and write correct, efficient, dependency-free code. Answer with a single ```python code block containing the complete implementation and nothing else.",
+  "playbook": [],
+  "self_check": true,
+  "repair_rounds": 1,
+  "write_own_tests": false,
+  "effort": "medium",
+  "hook_code": "",
+  "generation": 0,
+  "lineage": []
+}
